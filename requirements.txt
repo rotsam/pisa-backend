@@ -1,4 +1,11 @@
-
 fastapi
 uvicorn[standard]
+gunicorn
 python-dotenv
+pymongo
+weaviate-client
+openai
+celery
+redis
+passlib[bcrypt]
+python-jose
